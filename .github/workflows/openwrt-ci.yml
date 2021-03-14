@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: X86 第一版03
+name: X86 第一版01
 
 on:
   push:
